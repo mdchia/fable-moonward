@@ -1,0 +1,11 @@
+{
+  "name": "Moonward",
+  "short_name": "Moonward",
+  "description": "A roguelike of dust, ember and inheritance.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#06142b",
+  "theme_color": "#06142b",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
